@@ -1,1 +1,1 @@
-# Simulaci-on-de-Incendios-Forestales-en-Python-utilizando-Aut-omatas-Celulares
+# Simulacion-de-Incendios-Forestales-en-Python-utilizando-Automatas-Celulares
